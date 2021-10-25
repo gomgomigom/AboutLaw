@@ -123,6 +123,7 @@ img {
 
 /* home */
 .home__video {
+  background: transparent url('./assets/image/loading.gif') no-repeat 50% 25%;
   position: static;
   width: 100%;
   height: auto;

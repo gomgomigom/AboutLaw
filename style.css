@@ -144,6 +144,7 @@ img {
 
 /* footer */
 #footer {
+  margin: auto;
   max-width: 1200px;
   text-align: center;
   padding: 20px 7.5%;

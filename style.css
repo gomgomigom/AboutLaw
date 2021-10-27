@@ -50,8 +50,9 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: var(--color-blue);
+  cursor: pointer;
 }
 
 h1,
@@ -143,6 +144,7 @@ img {
 
 /* footer */
 #footer {
+  max-width: 1200px;
   text-align: center;
   padding: 20px 7.5%;
 }

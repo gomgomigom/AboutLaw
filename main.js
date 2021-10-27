@@ -13,3 +13,8 @@ function scrollTransparent(container) {
     container.style.opacity = 1 - window.scrollY / containerHeight / 1;
   });
 }
+
+function onopen() {
+  const url = 'http://www.ftc.go.kr/bizCommPop.do?wrkr_no=5142867391';
+  window.open(url, 'bizCommPop', 'width=750, height=700;');
+}

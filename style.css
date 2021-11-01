@@ -168,7 +168,8 @@ img {
   }
   p,
   a,
-  h2 {
+  h2,
+  body {
     color: var(--color-white);
   }
 }
@@ -178,7 +179,8 @@ img {
   }
   p,
   a,
-  h2 {
+  h2,
+  body {
     color: var(--color-blue);
   }
 }
